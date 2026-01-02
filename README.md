@@ -1,6 +1,6 @@
 # Multi-Agent Workflow Orchestrator for Restaurant Operations
 
-A production-grade multi-agent AI system simulating a ghost kitchen/cloud kitchen operation. Multiple specialized AI agents collaborate to handle customer orders, manage inventory, coordinate delivery, and handle exceptions.
+A production-grade multi-agent AI system for restaurant operations. Multiple specialized AI agents collaborate to handle customer orders, manage inventory, coordinate delivery, and handle exceptions.
 
 ## Overview
 
